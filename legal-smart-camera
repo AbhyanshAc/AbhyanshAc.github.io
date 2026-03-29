@@ -1,0 +1,71 @@
+SMART CAMERA – LEGAL DOCUMENTATION
+Last Updated: July 27, 2025
+
+This legal document applies to the "Smart Camera" Android app, developed and operated by Abhyansh Channel. It includes the Privacy Policy, Terms and Conditions, and compliance notices under international privacy laws including the GDPR (EU), CCPA (California, USA), and LGPD (Brazil).
+
+📜 PRIVACY POLICY
+1. Information We Collect:
+Device camera access (used only for real-time object detection)
+IP address, device identifiers, and advertising ID (for AdMob ads)
+App usage statistics (via analytics tools, if applicable)
+2. Purpose of Data Collection:
+To provide object recognition functionality via camera access
+To show personalized or contextual ads via Google AdMob
+To improve the app experience
+3. How We Use Your Data:
+We do NOT sell your data to third parties.
+
+Data is only shared with service providers (like Google AdMob) for app performance, analytics, and advertising.
+
+4. Third-Party Services:
+We use the following services, which may collect data under their own privacy policies:
+
+Google AdMob (for ads):"https://policies.google.com/privacy"
+Tf.js & Mobilenet (for image classification):"https://github.com/tensorflow/tfjs/blob/master/LICENSE"
+5. Data Retention:
+We do not store any camera images or personally identifiable information. Data is processed in real-time and not retained by us.
+
+6. Data Rights (GDPR, CCPA, LGPD, US):
+You have the right to:
+
+Access the personal data we process
+Request deletion of your data (Right to be Forgotten)
+Opt out of personalized advertising
+Object to data processing (where applicable)
+File complaints with data protection authorities
+We do not sell your personal information
+
+To exercise your rights, contact us at:omsjsr@outlook.com
+
+7. Children's Privacy:
+This app is not intended for children under 13. We do not knowingly collect personal information from children.
+
+8. Consent Management:
+You may be shown a consent dialog (via Google's UMP SDK) before ads are displayed. You can change ad consent settings anytime via the app settings.
+
+📄 TERMS AND CONDITIONS
+1. License:
+You are granted a limited, non-transferable, non-exclusive license to use the Smart Camera app for personal and non-commercial purposes.
+
+2. Restrictions:
+Do not reverse engineer, decompile, or modify the app.
+Do not use the app for illegal purposes.
+Unauthorized copying, redistribution, or tampering is prohibited.
+3. App Behavior:
+The app uses your device's camera and internet to perform its core function (object detection). Performance may vary depending on device specs and connectivity.
+
+4. Limitation of Liability:
+The app is provided "as-is." We are not responsible for:
+
+Errors in classification results
+Device or data loss from app use
+Ad content served by third parties
+5. Updates and Termination:
+We may update or terminate access to the app at any time. Continued use after updates means you accept the new terms.
+
+📧 CONTACT
+For any privacy questions, data requests, or general inquiries, contact:
+
+"omsjsr@outlook.com"
+
+© 2026 Abhyansh Channel. All rights reserved.
